@@ -1,18 +1,15 @@
 # Project 1: Data Cleaning & Preparation  
 
-
----
-
-## 🧾 Overview
+## Overview
 This project involved auditing and cleaning a retail orders dataset to ensure data integrity before performing any analysis or visualization.
 
 The dataset was initially provided in Excel format and was converted to CSV for processing. All cleaning and validation work was performed using Python.
 
 ---
 
-## 📁 Dataset
+## Dataset
 - **Original File:** Dataset_for_Data_Analytics.xlsx  
-- **Working File:** Dataset_for_Data_Analytics.csv  
+- **Working File:** cleaned_dataset.csv  
 - **Records:** 1,200 rows  
 - **Columns:** 14  
 
