@@ -55,12 +55,13 @@ Reviewed and standardized categorical columns:
 
 ## Key Findings
 
-- ✅ No duplicate OrderIDs detected  
-- ✅ All date formats are consistent  
-- ✅ No mismatches in TotalPrice calculations  
-- ✅ All categorical values are clean and standardized  
-- ⚠️ 309 blank values found in **CouponCode** column  
-- These were retained as valid since coupons are optional  
+- No duplicate OrderIDs detected  
+- All date formats are consistent  
+- No mismatches in TotalPrice calculations  
+- All categorical values are clean and standardized  
+- 309 blank values found in **CouponCode** column  
+- These were retained as valid since coupons are optional
+- Replaced the blanks in coupons with "NO_COUPON"
 
 ---
 
